@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my projects, internships, skills, and education as a Computer Science undergrad.
 
-🔗 **Live site:**:
+🔗 **Live site:**https://nikethkammari.github.io/portfolio/
 
 ## About
 
