@@ -50,7 +50,3 @@ Hosted for free via **GitHub Pages**:
 - 📱 +91 62813 61258
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikethkammari2005)
 - 🐙 [GitHub](https://github.com/nikethkammari)
-
-## License
-
-MIT
