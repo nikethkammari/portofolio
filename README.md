@@ -1,12 +1,12 @@
 # Niketh Kammari | Portfolio
 
-A personal portfolio website showcasing my projects, internships, skills, and education as a Computer Science undergrad.
+My personal portfolio website showcasing my projects, internships, skills, and education as a Computer Science undergrad.
 
 🔗 **Live site:** [https://niketh-portfolio.vercel.app/](https://niketh-portfolio.vercel.app/)
 
 ## About
 
-I'm a fourth-year B.Tech Computer Science student at Kommuri Pratap Reddy Institute of Technology, Hyderabad, with hands-on experience in full-stack development, backend systems, and AI/ML. This site is a single-page overview of my work and background.
+I'm a final year B.Tech Computer Science student at Kommuri Pratap Reddy Institute of Technology, Hyderabad, with hands-on experience in full-stack development, backend systems, and AI/ML. This site is a single-page overview of my work and background.
 
 ## Sections
 
